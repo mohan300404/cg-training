@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "Week_4/generics",
+        "Week_4/Regex",
+        "Week_4/Exceptions",
+        "Week_4/Collections/List",
+        "Basic",
+        "Week_4/Day1-stacksandqueues"
+    ]
+}

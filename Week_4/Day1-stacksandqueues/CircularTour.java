@@ -1,4 +1,4 @@
-package stacksandqueues;
+
 
 class PetrolPump {
     int petrol;
