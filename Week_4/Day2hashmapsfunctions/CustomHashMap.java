@@ -1,6 +1,6 @@
-package hashmapsfunctions;
+package Day2hashmapsfunctions;
 
-class CustomHashMap {
+public class CustomHashMap {
     private static class Entry {
         int key, value;
         Entry next;
